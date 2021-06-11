@@ -1,1 +1,2 @@
 This file has been amended again.
+A new line.
